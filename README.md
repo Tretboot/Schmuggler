@@ -23,7 +23,6 @@ Die Spieler können ihr Schiff verbessern, um schneller und mit mehr Waren zu re
 ## Scope of the Projekt
 
 * Das Spiel wird mit Python und dem Pygame-Framework entwickelt.
-* Das Spiel soll für Android portierbar sein.
 * Das Spiel wird die folgenden Funktionen enthalten:
     * Generierung von zufälligen Preisen für Waren
     * Berechnung der Reisezeit zwischen Planeten
